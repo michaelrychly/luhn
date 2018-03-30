@@ -1,0 +1,15 @@
+{
+  "name": "luhn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "luhn.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+  "chai": "*",
+  "mocha": "*"
+  }
+}
